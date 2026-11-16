@@ -1,0 +1,18 @@
+{
+  "spec_version": "v1.4",
+  "identifier": "StarkFixes-BasicDeltaV",
+  "name": "Basic DeltaV (Stark Fork)",
+  "abstract": "Fork of DMagic's Basic DeltaV. Replaces the original, so uninstall it first.",
+  "author": ["NoSoyStark", "DMagic"],
+  "license": "GPL-3.0",
+  "version": "1.0",
+  "ksp_version_min": "1.12",
+  "ksp_version_max": "1.12.5",
+  "download": "https://github.com/NoSoyStark/KSPFixesStark/releases/download/BasicDeltaV-v1.0/_StarkFixes-BasicDeltaV-v1.0.zip",
+  "install": [
+    { "find": "_StarkFixes", "install_to": "GameData" }
+  ],
+  "conflicts": [
+    { "name": "BasicDeltaV" }
+  ]
+}
