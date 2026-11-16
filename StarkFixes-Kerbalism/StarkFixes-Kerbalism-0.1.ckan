@@ -1,0 +1,17 @@
+{
+  "spec_version": "v1.4",
+  "identifier": "StarkFixes-Kerbalism",
+  "name": "Stark Fixes - Kerbalism Pack",
+  "abstract": "Replaces ECLSS and Chemical Plant textures, adds Planetary Base ammonia and hydrogen containers with VAB support",
+  "author": "NoSoyStark",
+  "license": "restricted",
+  "version": "0.1",
+  "ksp_version": "any",
+  "download": "https://github.com/NoSoyStark/KSPFixesStark/releases/download/Kerbalism-v0.1/_StarkFixes-Kerbalism.zip",
+  "install": [
+    { "find": "_StarkFixes", "install_to": "GameData" }
+  ],
+  "depends": [
+    { "name": "ModuleManager" }
+  ]
+}
