@@ -12,6 +12,8 @@
     { "find": "_StarkFixes", "install_to": "GameData" }
   ],
   "depends": [
-    { "name": "ModuleManager" }
+  { "name": "ModuleManager" },
+  { "name": "Kerbalism" }
   ]
 }
+
