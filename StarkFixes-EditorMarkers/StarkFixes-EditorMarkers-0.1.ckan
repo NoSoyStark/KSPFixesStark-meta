@@ -1,0 +1,17 @@
+{
+  "spec_version": "v1.4",
+  "identifier": "StarkFixes-EditorMarkers",
+  "name": "Stark Fixes - Editor Markers",
+  "abstract": "Editor Markers mod fix",
+  "author": "NoSoyStark",
+  "license": "restricted",
+  "version": "0.1",
+  "ksp_version": "any",
+  "download": "https://github.com/NoSoyStark/KSPFixesStark/releases/download/EditorMarkers-v0.1/_StarkFixes-EditorMarkers.zip",
+  "install": [
+    { "find": "_StarkFixes", "install_to": "GameData" }
+  ],
+  "depends": [
+    { "name": "ModuleManager" }
+  ]
+}
