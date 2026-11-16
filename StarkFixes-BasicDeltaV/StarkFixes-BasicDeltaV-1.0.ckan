@@ -2,7 +2,7 @@
   "spec_version": "v1.4",
   "identifier": "StarkFixes-BasicDeltaV",
   "name": "Stark Fixes - basic DeltaV",
-  "abstract": "Fork of DMagic's Basic DeltaV. Replaces the original, so uninstall it first.",
+  "abstract": "Fork of DMagic's Basic DeltaV. Replaces the original, making it compatible for ksp 1.12.5",
   "author": ["NoSoyStark", "DMagic"],
   "license": "GPL-3.0",
   "version": "1.0",
