@@ -1,0 +1,18 @@
+{
+  "spec_version": "v1.4",
+  "identifier": "RealWindows",
+  "name": "Real Windows",
+  "abstract": "Fork Real Windows v1.1.1.0",
+  "author": ["NoSoyStark"],
+  "license": "GPL-3.0",
+  "version": "1.1.1.0",
+  "ksp_version_min": "1.12",
+  "ksp_version_max": "1.12.5",
+  "download": "https://github.com/NoSoyStark/KSPFixesStark/releases/download/RealWindows-1.1.1.0/Real_Windows-1.1.1.0.zip",
+  "install": [
+    { "find": "_StarkFixes", "install_to": "GameData" }
+  ],
+  "depends": [
+    { "name": "ModuleManager" }
+  ]
+}
